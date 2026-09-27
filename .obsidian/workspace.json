@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2ee77b72a1b12ff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d399a49c3a879d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a9a8c3a980090a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "НИРС/Семинары и курсы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Семинары и курсы"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a28f0aac904bbe69",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c7d7475bbf854df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e330b4ebad43a4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5d6a053dcb71e0a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1e870738e62d0baf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6df283389eb6b04d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3dd7162191fddd41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74fa3dcb685bd96f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "НИРС/Семинары и курсы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8592500ea955b40f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "НИРС/Семинары и курсы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4094f2d27f1dff87",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7303259c5b120e97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f291e71692704387",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "НИРС/Семинары и курсы.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "00a9a8c3a980090a",
+  "lastOpenFiles": [
+    "Obsidian_Logs",
+    "ЛАБЫ/Инфо.md",
+    "НИРС/Семинары и курсы.md",
+    "ЛАБЫ/Архитектура МК и МП.md",
+    "ЛАБЫ/Основы программирования на языке C.md",
+    "ЛАБЫ/Схемотехника.md",
+    "create a link.md",
+    "ЛАБЫ",
+    "НИРС",
+    "Welcome.md"
+  ]
+}
